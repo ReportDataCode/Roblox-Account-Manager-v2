@@ -15,9 +15,9 @@ Beware of the risks that you are taking if you accidentally send something to so
 If you ever want a friend to join a game using your account, make sure you have the PlaceId and JobId correctly entered, then right click an account, and click "Copy rbx-player link", DO NOT do this if someone asks you for it.
 
 # DOWNLOAD
-Version | Download
-------- | --------
-v0.1a | [Click Here](https://github.com/Reversitory/12yx2ney12cheuh/releases/download/v0.1a/Roblox.Account.Manager.rar)
+Version | Download | Added | Removed
+------- | -------- | ----- | -------
+v0.1a | [Click Here](https://github.com/Reversitory/12yx2ney12cheuh/releases/download/v0.1a/Roblox.Account.Manager.rar) | Dark Mode | None
 
 **NOTE:** If you're having problems, install the latest version of the [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework).
 
