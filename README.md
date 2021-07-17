@@ -3,7 +3,7 @@ Application that allows you to add multiple accounts into one application allowi
 
 Useful for games that require grinding off other players, or storage accounts that hold in game items or currency, or just to have multiple accounts that you can easily find and use.
 
-Report bugs to the issues section or direct message me via discord @ Lug#0001
+Report bugs to the issues section or direct message me via discord @ L ˞˞#0001
 
 # DISCLAIMER
 If someone asks you to generate an "rbx-player link", **DO NOT** do it, they can use these to join any game using your account, or even launch roblox studio with one of your games. They can do many things in game such as spend your robux or even do things that can get your account terminated. **USE THESE FEATURES AT YOUR OWN RISK**
